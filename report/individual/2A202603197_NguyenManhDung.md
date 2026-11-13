@@ -98,7 +98,7 @@ Chưa ghi nhận riêng theo hai lượt; không kết luận lỗi nào chỉ p
 | Tên file CVAT for video 1.1 | `NguyenManhDung_cvat_video.zip` |
 | Số track ID khác nhau trong `gt/gt.txt` (phải là 5) | 5 |
 | Frame `outside` không có dòng trong `gt.txt` (đúng / sai) | Đúng: đã kiểm tra P1 tại frame CVAT 42–43, không có dòng cho ID tương ứng |
-| Job đã completed trên CVAT máy cá nhân | Chưa xác nhận |
+| Job đã completed trên CVAT máy cá nhân | Đã completed |
 
 Dán phần tóm tắt in ra từ `src/check_submission.py`:
 
